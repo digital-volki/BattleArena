@@ -1,0 +1,12 @@
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\bin\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.deps.json
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\bin\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.dll
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\bin\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.pdb
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\bin\Release\netcoreapp3.1\BattleArena.Common.dll
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\bin\Release\netcoreapp3.1\BattleArena.Common.pdb
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.csprojAssemblyReference.cache
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.AssemblyInfoInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.AssemblyInfo.cs
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.csproj.CoreCompileInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.csproj.CopyComplete
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.dll
+D:\BattleArena\BattleArena\BattleArena.Core.PostgreSQL\obj\Release\netcoreapp3.1\BattleArena.Core.PostgreSQL.pdb
