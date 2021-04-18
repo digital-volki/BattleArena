@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZaGewweN4azV6Y3d3hVBImr5n1QOLLUGYZZHE/GBYqHE2Rdt1qJ2/wxxMqsADqt2cMnVHV3//BKUeTWSfUNkjw==",
+  "success": true,
+  "projectFilePath": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MiGaming\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MiGaming\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\MiGaming\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

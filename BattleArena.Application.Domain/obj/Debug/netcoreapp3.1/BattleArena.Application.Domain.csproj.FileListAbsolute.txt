@@ -1,0 +1,16 @@
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Application.Domain.deps.json
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Application.Domain.dll
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Application.Domain.pdb
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Application.dll
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Common.dll
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Core.PostgreSQL.dll
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Application.pdb
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Core.PostgreSQL.pdb
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\bin\Debug\netcoreapp3.1\BattleArena.Common.pdb
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.csprojAssemblyReference.cache
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.AssemblyInfoInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.AssemblyInfo.cs
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.csproj.CoreCompileInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.csproj.CopyComplete
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.dll
+D:\BattleArena\BattleArena\BattleArena.Application.Domain\obj\Debug\netcoreapp3.1\BattleArena.Application.Domain.pdb

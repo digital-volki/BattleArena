@@ -1,0 +1,54 @@
+version: "3"
+
+services:
+  db:
+    image: postgres
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: site_db
+      POSTGRES_DB: site_db
+      POSTGRES_PASSWORD: JGJS89ydhnflsar312h89HLFDF2
+    volumes:
+      - ./db_data:/var/lib/postgresql/data
+
+  db-rc:
+    image: postgres
+    restart: always
+    ports:
+      - "5435:5432"
+    environment:
+      POSTGRES_USER: rc
+      POSTGRES_DB: rc
+      POSTGRES_PASSWORD: JGJS89ydhnflsar312h89HLFDF2
+    volumes:
+      - ./rc_data:/var/lib/postgresql/data    
+
+  db-feature:
+    image: postgres
+    restart: always
+    ports:
+      - "5438:5432"
+    environment:
+      POSTGRES_USER: feature
+      POSTGRES_DB: feature
+      POSTGRES_PASSWORD: JGJS89ydhnflsar312h89HLFDF2
+    volumes:
+      - ./feature_data:/var/lib/postgresql/data    
+
+
+  web:
+    ports:
+      - "80:80"
+    restart: always
+    build:
+      context: .
+      dockerfile: Leifez/Dockerfile
+    volumes:
+      - /home/worker/raw_data:/app/files
+
+networks:
+  default:
+    external: 
+      name: orchestr

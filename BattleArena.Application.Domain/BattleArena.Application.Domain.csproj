@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BattleArena.Application\BattleArena.Application.csproj" />
+    <ProjectReference Include="..\BattleArena.Core.PostgreSQL\BattleArena.Core.PostgreSQL.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,438 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BattleArena\\BattleArena\\BattleArena\\BattleArena.csproj": {}
+  },
+  "projects": {
+    "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\BattleArena.Application.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\BattleArena.Application.Domain.csproj",
+        "projectName": "BattleArena.Application.Domain",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\BattleArena.Application.Domain.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BattleArena\\BattleArena\\BattleArena.Application\\BattleArena.Application.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application\\BattleArena.Application.csproj"
+              },
+              "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\BattleArena.Application.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\BattleArena.Application.Services.csproj",
+        "projectName": "BattleArena.Application.Services",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\BattleArena.Application.Services.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\BattleArena.Application.Domain.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Domain\\BattleArena.Application.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BattleArena\\BattleArena\\BattleArena.Application\\BattleArena.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena.Application\\BattleArena.Application.csproj",
+        "projectName": "BattleArena.Application",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application\\BattleArena.Application.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj",
+        "projectName": "BattleArena.Common",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj",
+        "projectName": "BattleArena.Core.PostgreSQL",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[5.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BattleArena\\BattleArena\\BattleArena\\BattleArena.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BattleArena\\BattleArena\\BattleArena\\BattleArena.csproj",
+        "projectName": "BattleArena",
+        "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena\\BattleArena.csproj",
+        "packagesPath": "C:\\Users\\MiGaming\\.nuget\\packages\\",
+        "outputPath": "D:\\BattleArena\\BattleArena\\BattleArena\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\MiGaming\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\BattleArena.Application.Services.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Application.Services\\BattleArena.Application.Services.csproj"
+              },
+              "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Common\\BattleArena.Common.csproj"
+              },
+              "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj": {
+                "projectPath": "D:\\BattleArena\\BattleArena\\BattleArena.Core.PostgreSQL\\BattleArena.Core.PostgreSQL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "HotChocolate": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "HotChocolate.Data": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "HotChocolate.Pagination": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "HotChocolate.Types.Filters": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "HotChocolate.Types.Sorting": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.10.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

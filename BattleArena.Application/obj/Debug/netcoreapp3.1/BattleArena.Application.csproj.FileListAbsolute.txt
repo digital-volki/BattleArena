@@ -1,0 +1,9 @@
+D:\BattleArena\BattleArena\BattleArena.Application\bin\Debug\netcoreapp3.1\BattleArena.Application.deps.json
+D:\BattleArena\BattleArena\BattleArena.Application\bin\Debug\netcoreapp3.1\BattleArena.Application.dll
+D:\BattleArena\BattleArena\BattleArena.Application\bin\Debug\netcoreapp3.1\BattleArena.Application.pdb
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.csprojAssemblyReference.cache
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.AssemblyInfoInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.AssemblyInfo.cs
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.csproj.CoreCompileInputs.cache
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.dll
+D:\BattleArena\BattleArena\BattleArena.Application\obj\Debug\netcoreapp3.1\BattleArena.Application.pdb
