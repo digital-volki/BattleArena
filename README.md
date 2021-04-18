@@ -1,7 +1,7 @@
 # BattleArena
 Использовалася такой конфиг докер контейнера для БД
 
-db-feature:
+`db-feature:
   image: postgres
   restart: always
   ports:
@@ -11,5 +11,6 @@ db-feature:
     POSTGRES_DB: <db_name>
     POSTGRES_PASSWORD: <db_password>
   volumes:
-    - ./feature_data:/var/lib/postgresql/data   
+    - ./feature_data:/var/lib/postgresql/data`  
 
+Собрать можно через **docker-compose up -d** 
