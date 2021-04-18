@@ -54,5 +54,27 @@ namespace BattleArena.Queries
         public IQueryable<User> GetRating(
             [Service] IUserService userService,
             League league) => userService.GetUsers(league) ?? new List<User>().AsQueryable();
+
+
+
+
+
+        public List<LeagueMetadata> GetLeagueMetadatas()
+        {
+            List<LeagueMetadata> metadatas = new List<LeagueMetadata>();
+
+            foreach (League league in Enum.GetValues(typeof(League)))
+            {
+                metadatas.Add(new LeagueMetadata
+                {
+                    League = league,
+                    ExperienceForUp = Consts.LeagueExperience[league],
+                    WinMoney = Consts.Awards[league].Item1,
+                    WinExperience = Consts.Awards[league].Item2
+                });
+            }
+
+            return metadatas;
+        }
     }
 }
